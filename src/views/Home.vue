@@ -2,6 +2,7 @@
   <div class="wrapper">
     <div class="section page-header header-filter" :style="headerStyle">
       <div class="container">
+        <!-- Floating Blob on the home page -->
         <div class="blob">
           <svg
             xmlns:xlink="http://www.w3.org/1999/xlink"
